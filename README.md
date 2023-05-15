@@ -1,1 +1,3 @@
 # Analyzing-Climate-Change-Data
+
+This report presents a comprehensive analysis of climate change data using various predictive models. The objective of this analysis is to gain insights into the trends and patterns of climate change, evaluate the potential impacts on different industries, and provide actionable recommendations for risk management and insurance services. The analysis includes regression analysis, time series forecasting (ARIMA), and clustering (K-means) techniques applied to the GlobalLandTemperaturesByCity dataset. The findings highlight the significance of climate change and its implications for businesses and suggest strategies to mitigate associated risks.
